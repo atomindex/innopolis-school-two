@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleInterface/BattleForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleInterface/ThePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleInterface/View.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Cell.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/CellState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/CleverBot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Deck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/DeckState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/EnemyField.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Field.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Game.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/HumanPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Log.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/LogItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/PlayerType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/Ship.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/battleship/StupidBot.java" charset="UTF-8" />
+  </component>
+</project>
